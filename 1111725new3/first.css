@@ -1,0 +1,14 @@
+body{
+    font-family: 'New Tegomin', serif;
+    font-family: 'Noto Serif TC', serif;
+    background-color:lightcyan;
+} /*字體*/
+form{
+    margin-left: 570px;
+    margin-top: 200px;
+    width: 60%;
+}
+.Submit_type{
+   margin-left: 100px;
+}
+
